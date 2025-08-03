@@ -1,4 +1,4 @@
-# myapp
+# Blinkit Clone
 
 A new Flutter project.
 
